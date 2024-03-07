@@ -15,7 +15,7 @@ La empresa NYC TAXI es ficticia creada para los fines de este trabajo, lo que si
 
 Dentro del repositorio se encuentra los siguientes archivos:
 
-- [DASHBOARD](https://www.coingecko.com/es/api/documentation): Tablero de power bi.
-- [DOCUMENTACION](https://www.coingecko.com/es/api/documentation): Documentación en pdf donde se explica el paso a paso y se genero la documentacion necesaria para que cualquiera pueda entrender que se hizo.
-- [PDF TABLERO](https://www.coingecko.com/es/api/documentation): PDF del tablero para tener una vision general del mismo sin necesidad de descargarlo.
+- [DASHBOARD](https://github.com/MatB1988/Analisis_taxi_New_York/blob/main/Tablero_Empresa_Taxi.pbix): Tablero de power bi.
+- [DOCUMENTACION](https://github.com/MatB1988/Analisis_taxi_New_York/blob/main/Documentacion.pdf): Documentación en pdf donde se explica el paso a paso y se genero la documentacion necesaria para que cualquiera pueda entrender que se hizo.
+- [PDF TABLERO](https://github.com/MatB1988/Analisis_taxi_New_York/blob/main/Tablero%20PDF.pdfn): PDF del tablero para tener una vision general del mismo sin necesidad de descargarlo.
 - [lINK VIDEO TABLERO](https://youtu.be/yXkEdyeCwt8): precionando en el link te lleva a un video de Youtube donde se puede ver el funcionamiento del tablero.
